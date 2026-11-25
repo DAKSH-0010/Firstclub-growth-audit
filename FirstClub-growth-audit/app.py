@@ -4,7 +4,7 @@ FirstClub Growth OS
 A product + growth proof-of-work case study for FirstClub's quality-led
 quick-commerce wedge.
 
-Built by Kanik Kumar, CS '27, BITS Pilani.
+Built by Daksh Tyagi, ECO+ MANU '28, BITS Pilani.
 All company metrics are public-source references or synthetic estimates for
 experiment planning. No private FirstClub data is used.
 """
@@ -220,8 +220,8 @@ st.markdown(
 
 render_badges(
     [
-        "Built by Kanik Kumar",
-        "BITS Pilani CS '27",
+        "Built by Daksh Tyagi",
+        "BITS Pilani ECO+ MANU'28",
         "Research snapshot: May 2026",
         "Public data + synthetic model",
         "Product, growth, ops, CRM",
