@@ -2,7 +2,7 @@
 
 **A product + growth proof-of-work case study for FirstClub's install-to-first-order, trust, retention, and city-expansion engine.**
 
-Built by **Daksh Tyagi, Eco + manu'28, BITS Pilani** as a public product-growth case study.
+Built by **Daksh Tyagi, M.Sc. Economics + B.E. Manufacturing '28, BITS Pilani** as a public product-growth case study.
 
 > FirstClub's hard problem is not just faster grocery delivery. It is making quality feel trustworthy at quick-commerce frequency.
 >
@@ -12,7 +12,7 @@ Built by **Daksh Tyagi, Eco + manu'28, BITS Pilani** as a public product-growth 
 
 ## Live Project
 
-- **Streamlit app:** https://firstclub-growth-audit-banzuk7s95qjwqyataqdfs.streamlit.app
+- **Streamlit app:** (https://firstclub-growth-audit-tckvyc2acnjct2tefr87ev.streamlit.app/)
 - **GitHub:** https://github.com/DAKSH-0010/FirstClub-growth-audit
 
 ---
@@ -92,7 +92,7 @@ The product opportunity:
 
 ```bash
 git clone https://github.com/DAKSH-0010/FirstClub-growth-audit
-cd FirstClub-growth-audit
+cd Firstclub-growth-audit/FirstClub-growth-audit
 pip install -r requirements.txt
 streamlit run app.py
 ```
