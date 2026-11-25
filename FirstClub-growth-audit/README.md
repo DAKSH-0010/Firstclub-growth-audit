@@ -12,7 +12,7 @@ Built by **Daksh Tyagi, M.Sc. Economics + B.E. Manufacturing '28, BITS Pilani** 
 
 ## Live Project
 
-- **Streamlit app:** (https://firstclub-growth-audit-tckvyc2acnjct2tefr87ev.streamlit.app/)
+- **Streamlit app:** https://firstclub-growth-audit-tckvyc2acnjct2tefr87ev.streamlit.app/
 - **GitHub:** https://github.com/DAKSH-0010/FirstClub-growth-audit
 
 ---
